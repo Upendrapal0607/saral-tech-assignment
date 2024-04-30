@@ -8,7 +8,8 @@ Simple HTM5 , CSS3 and JavaScript web page applications.
 
 ## Deplolyed App
  [Live](https://upendrapal0607.github.io/saral-tech-assignment/)
-
+## Walk through the video
+[Video](https://drive.google.com/file/d/1OLPdjbQ09vK691iJtk-U3gSKTJCG_xK-/view?usp=sharing)
 ## Technology Stack
 - HTML5
 - CSS3
